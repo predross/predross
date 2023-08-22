@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=Welcome%20to%20my%20Repository&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=35">
 
-![Snake animation](https://github.com/predross/predross/blob/output/github-contribution-grid-snake.svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Igor;I'm+21+years+old;I+from+Brasil,CWB+PR;I+work+with+development-mobile+at+Evosistems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/predross)
@@ -12,8 +10,8 @@
 
 <div>
 <a href="https://github.com/predross">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predross&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=predross&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predross&layout=compact&langs_count=7&theme=monokai"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=predross&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
 
 
