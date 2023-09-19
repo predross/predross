@@ -8,7 +8,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/gpap.igor)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=557996379124)](https://api.whatsapp.com/send?phone=seu_numero)
 
+<div>
+<a href="https://github.com/predross">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predross&layout=compact&langs_count=7&theme=monokai"/>
 
+</div>
 
 
 
